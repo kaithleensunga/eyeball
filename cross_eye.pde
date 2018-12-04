@@ -1,6 +1,6 @@
+size(400,400);
 //left eye
 //white of the eye
-size(400,400);
 ellipse(200,200,230,130);
 
 //iris
